@@ -1,2 +1,2 @@
 # ruby_puro
-Exercícios
+Exercícios feitos através do cyrso Ruby puro na https://onebitcode.com/
