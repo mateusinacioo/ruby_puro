@@ -6,4 +6,4 @@ names.each do |name|
     puts name
 end
  
-# puts name
+puts name
