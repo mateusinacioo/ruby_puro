@@ -15,7 +15,3 @@ i=0
 
     i+=1
 end
-
-hash.each do |k, v|
-    puts "Chave [#{k}] e seu valor é [#{v}]"
-end
