@@ -15,3 +15,7 @@ i=0
 
     i+=1
 end
+
+hash.each do |key, valor|
+    puts "A chave é #{key} e o seu valor é #{valor}"
+end

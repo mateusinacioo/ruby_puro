@@ -1,0 +1,1 @@
+nome, produto.preco).comprar

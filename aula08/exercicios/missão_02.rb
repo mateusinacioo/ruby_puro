@@ -27,7 +27,5 @@ module Person
     
 end
 
-
-
 Person::Juridic.new('M. C. Investimentos', '4241.123/0001').add
 Person::Physical.new('José Almeida', '425.123.123-123').add
