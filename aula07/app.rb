@@ -1,5 +1,5 @@
-require './missao_aula07/animal.rb'
-require './missao_aula07/cachorro.rb'
+require './aula07/animal.rb'
+require './aula07/cachorro.rb'
  
 animal = Animal.new
 cachorro = Cachorro.new
